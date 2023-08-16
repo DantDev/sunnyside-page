@@ -189,11 +189,11 @@
   letter-spacing: 10px;
   color: var(--clr-white);
   font-size: 4em;
-  margin-bottom: 90px;
+  margin-bottom: 40px;
 }
 
 .header-arrow{
-  height: 130px;
+  height: 110px;
 }
 
 .header-img{
