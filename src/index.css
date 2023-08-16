@@ -281,7 +281,7 @@
 
 .content-4-title{
   font-family: var(--ff-fraunces);
-  font-size: 3.5em;
+  font-size: 3em;
   font-weight: var(--fw-bold);
   color: var(--clr-very-dark-desat-blue);
 }
@@ -289,7 +289,7 @@
 .content-4-text{
   text-align: start;
   font-family: var(--ff-barlow);
-  font-size: 1.4em;
+  font-size: 1.1em;
   color: var(--clr-dark-grayish-blue);
   line-height: 35px;
 }
@@ -299,7 +299,7 @@
   border: none;
   font-family: var(--ff-fraunces);
   font-weight: var(--fw-bold);
-  font-size: 1.2em;
+  font-size: 1.1em;
   color: var(--clr-very-dark-desat-blue);
   text-decoration: underline 8px hsla(7, 99%, 70%, 0.5);
 }
