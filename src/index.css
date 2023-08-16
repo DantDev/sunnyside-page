@@ -177,7 +177,7 @@
 
 .header-info{
   position: absolute;
-  top: 230px;
+  top: 200px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -189,7 +189,7 @@
   letter-spacing: 10px;
   color: var(--clr-white);
   font-size: 4em;
-  margin-bottom: 40px;
+  margin-bottom: 60px;
 }
 
 .header-arrow{
