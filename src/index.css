@@ -28,7 +28,7 @@
   height: 100%;
   display: grid;
   grid-template-columns: repeat(12,1fr);
-  grid-template-rows: auto auto auto auto 800px 420px 400px;
+  grid-template-rows: auto auto auto auto 800px auto 400px;
   grid-template-areas: 
   "n n n n n n n n n n n n"
   "b b b b b b a a a a a a"
@@ -444,7 +444,7 @@
 }
 
 .content-8-img{
-  height: 100%;
+  width: 25%;
 }
 
 .content-8-mobile{
